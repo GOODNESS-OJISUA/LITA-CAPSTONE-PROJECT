@@ -1,7 +1,6 @@
 # LITA-CAPSTONE-PROJECT
-This project focus more on the knowledge in excel, sql and powerbi
 
-*SQL ASSIGNMENT
+...**SQL ASSIGNMENT**
 
 SELECT TOP (1000) [OrderID]
       ,[Customer_Id]
