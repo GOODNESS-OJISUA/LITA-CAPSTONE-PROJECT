@@ -91,3 +91,7 @@ SELECT TOP (1000) [OrderID]
 	   select SUM (Quantity)
 	 AS
 	 'totalsaletransacton' from [litacapstone_db].[dbo].[lita project 1] where region = 'East'
+
+  **EXCEL ASSIGNMENT**
+
+  
