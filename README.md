@@ -1,9 +1,10 @@
+# LITA-CAPSTONE-PROJECT
+
 **EXCEL ASSIGMENT**
 
 <img width="172" alt="TOTAL SALES BY REGION" src="https://github.com/user-attachments/assets/b5d9a20a-f0ca-48e4-93a4-9646099f085c" />
 <img width="166" alt="TOTAL SALES BY PRODUCT" src="https://github.com/user-attachments/assets/5a8a2892-8b44-472e-8594-e4a0abb5d14e" />
 <img width="170" alt="TOTAL SALES BY MONTH" src="https://github.com/user-attachments/assets/0ba7f816-e551-4c72-8890-bb9691ec173e" />
-# LITA-CAPSTONE-PROJECT
 
 ...**SQL ASSIGNMENT**
 
