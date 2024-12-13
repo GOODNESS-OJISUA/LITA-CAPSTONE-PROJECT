@@ -6,6 +6,10 @@
 <img width="166" alt="TOTAL SALES BY PRODUCT" src="https://github.com/user-attachments/assets/5a8a2892-8b44-472e-8594-e4a0abb5d14e" />
 <img width="170" alt="TOTAL SALES BY MONTH" src="https://github.com/user-attachments/assets/0ba7f816-e551-4c72-8890-bb9691ec173e" />
 
+<img width="949" alt="picture2" src="https://github.com/user-attachments/assets/0f967ed5-ae9a-4a4f-a3fd-14a39240f702" />
+<img width="955" alt="picture 1" src="https://github.com/user-attachments/assets/96062e3d-5b53-4bdb-9e62-9ab3c23b8a87" />
+
+
 
 ...**SQL ASSIGNMENT**
 
