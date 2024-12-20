@@ -12,7 +12,7 @@
 
 
 ...**SQL ASSIGNMENT**
-
+```
 SELECT TOP (1000) [OrderID]
       ,[Customer_Id]
       ,[Product]
@@ -103,4 +103,5 @@ SELECT TOP (1000) [OrderID]
 	 AS
 	 'totalsaletransacton' from [litacapstone_db].[dbo].[lita project 1] where region = 'E
 
+```
   
